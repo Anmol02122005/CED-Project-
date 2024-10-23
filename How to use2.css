@@ -1,0 +1,31 @@
+body {
+    background-color: #f7f9fc;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+}
+h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333;
+}
+
+th{
+    text-align: start;
+    border: 2px solid #000000;
+    background-color: #4a90e2;
+    color: #ffffff;
+}
+td{
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    color: #333;
+}
+td:hover {
+    background-color: #f0f8ff;
+}
+table {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.admin{
+    color: #ff0000;
+}
